@@ -1,0 +1,7 @@
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ClanPartyManagement\bin\Win64_Shipping_Client\ClanPartyManagement.dll
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\ClanPartyManagement\bin\Win64_Shipping_Client\ClanPartyManagement.pdb
+D:\DevProjects\BannerlordMods\bannerlord-clan-party-management\ClanPartyManagement\obj\Debug\ClanPartyManagement.csproj.CoreCompileInputs.cache
+D:\DevProjects\BannerlordMods\bannerlord-clan-party-management\ClanPartyManagement\obj\Debug\ClanPartyManagement.csproj.CopyComplete
+D:\DevProjects\BannerlordMods\bannerlord-clan-party-management\ClanPartyManagement\obj\Debug\ClanPartyManagement.dll
+D:\DevProjects\BannerlordMods\bannerlord-clan-party-management\ClanPartyManagement\obj\Debug\ClanPartyManagement.pdb
+D:\DevProjects\BannerlordMods\bannerlord-clan-party-management\ClanPartyManagement\obj\Debug\ClanPartyManagement.csprojAssemblyReference.cache
